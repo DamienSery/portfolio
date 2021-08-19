@@ -355,7 +355,7 @@ section {
   height: 375px;
   width: 250px;
   margin-left: 15%;
-  box-shadow: 5px 5px 5px #149ddd;
+  box-shadow: 5px 5px 5px rgba(192, 2, 192, 0.568);
 }
 
 
@@ -624,7 +624,7 @@ section {
 form {
 width: 90%;
 margin-left: 5%;
-box-shadow: 5px 5px 5px yellowgreen;
+box-shadow: 5px 5px 5px rgba(192, 2, 192, 0.568);
 }
 
 .form-group ::placeholder{
