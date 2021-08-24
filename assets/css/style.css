@@ -28,6 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -314,7 +315,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #FF706F;
   bottom: 0;
   left: 0;
 }
@@ -355,7 +356,7 @@ section {
   height: 375px;
   width: 250px;
   margin-left: 15%;
-  box-shadow: 5px 5px 5px purple;
+  box-shadow: 5px 5px 5px #A38BE1;
 }
 
 
@@ -453,6 +454,11 @@ section {
   top: 0;
   background: #37b3ed;
   border: 2px solid red;
+}
+
+.panel-group img{
+  height: 25px;
+  width: 20px;
 }
 
 /*--------------------------------------------------------------
@@ -624,7 +630,7 @@ section {
 form {
 width: 90%;
 margin-left: 5%;
-box-shadow: 5px 5px 5px rgba(192, 2, 192, 0.568);
+box-shadow: 5px 5px 5px #A38BE1;
 }
 
 .form-group ::placeholder{
